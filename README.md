@@ -1,5 +1,5 @@
 
-
+![alt text](image.png)
 This is a small React component where I'm learning how to dynamically change the background of a section based on which button is clicked. I'm practicing React concepts like **props**, **state**, **conditional rendering**, and **inline styles**.
 
 ##  What It Does
