@@ -1,0 +1,16 @@
+.main-content {
+  height: 300px; /* just for demo */
+  transition: background 0.5s ease;
+}
+.bg-section1{
+     background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+     border-radius: 12px;
+}
+.bg-section2 {
+  background: linear-gradient(to right, #fbc2eb, #a6c1ee);
+  border-radius: 12px;
+}
+
+.bg-default {
+  background: #f0f0f0;
+}
